@@ -123,12 +123,7 @@ encontram-se no relatório final guardado em
 4.  Consulte `documentacao_tecnica/DAX/` para as medidas.
 5.  Consulte `relatorios/relatorio_final/` para o relatório completo.
 
-## Nota sobre os dados
 
-Antes de publicar o repositório, confirme que os ficheiros podem ser
-partilhados e que não contêm dados pessoais, credenciais, ligações
-privadas ou informação confidencial. Se necessário, publique apenas
-dados de demonstração anonimizados ou os scripts de preparação.
 
 ------------------------------------------------------------------------
 
